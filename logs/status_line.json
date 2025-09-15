@@ -1,0 +1,4392 @@
+[
+  {
+    "timestamp": "2025-09-15T11:38:31.638683",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.3939658,
+        "total_duration_ms": 175146,
+        "total_api_duration_ms": 33428,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:38:39.286242",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.41688864999999997,
+        "total_duration_ms": 185300,
+        "total_api_duration_ms": 40760,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:38:39.287078",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.41688864999999997,
+        "total_duration_ms": 185300,
+        "total_api_duration_ms": 40760,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:41:57.453087",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.41688864999999997,
+        "total_duration_ms": 383426,
+        "total_api_duration_ms": 40760,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:41:57.454098",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.41688864999999997,
+        "total_duration_ms": 383426,
+        "total_api_duration_ms": 40760,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:41:57.722057",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.41688864999999997,
+        "total_duration_ms": 383727,
+        "total_api_duration_ms": 40760,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:41:57.723056",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.41688864999999997,
+        "total_duration_ms": 383727,
+        "total_api_duration_ms": 40760,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:42:00.205415",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.41688864999999997,
+        "total_duration_ms": 384130,
+        "total_api_duration_ms": 40760,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:42:00.207502",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.41688864999999997,
+        "total_duration_ms": 384130,
+        "total_api_duration_ms": 40760,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:42:00.335354",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.41688864999999997,
+        "total_duration_ms": 386143,
+        "total_api_duration_ms": 40760,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:42:00.337066",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.41688864999999997,
+        "total_duration_ms": 386143,
+        "total_api_duration_ms": 40760,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:42:06.279091",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.44346729999999995,
+        "total_duration_ms": 391723,
+        "total_api_duration_ms": 45755,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:42:06.280541",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.44346729999999995,
+        "total_duration_ms": 391723,
+        "total_api_duration_ms": 45755,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:42:11.711014",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.46891404999999997,
+        "total_duration_ms": 397664,
+        "total_api_duration_ms": 50050,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:42:11.712618",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.46891404999999997,
+        "total_duration_ms": 397664,
+        "total_api_duration_ms": 50050,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:42:17.383865",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.491911,
+        "total_duration_ms": 403330,
+        "total_api_duration_ms": 53720,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:42:17.385880",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.491911,
+        "total_duration_ms": 403330,
+        "total_api_duration_ms": 53720,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:42:20.915407",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.5127847,
+        "total_duration_ms": 406615,
+        "total_api_duration_ms": 56770,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:42:20.918020",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.5127847,
+        "total_duration_ms": 406615,
+        "total_api_duration_ms": 56770,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:42:58.337087",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.9168365,
+        "total_duration_ms": 444243,
+        "total_api_duration_ms": 94165,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:42:58.339148",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.9168365,
+        "total_duration_ms": 444243,
+        "total_api_duration_ms": 94165,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:43:17.574098",
+    "version": "v3",
+    "input_data": {
+      "session_id": "55535c08-c85a-40cf-9a3a-a7de082433cd",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\55535c08-c85a-40cf-9a3a-a7de082433cd.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 3527,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Transcript file C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\55535c08-c85a-40cf-9a3a-a7de082433cd.jsonl does not exist"
+  },
+  {
+    "timestamp": "2025-09-15T11:43:17.576256",
+    "version": "v3",
+    "input_data": {
+      "session_id": "55535c08-c85a-40cf-9a3a-a7de082433cd",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\55535c08-c85a-40cf-9a3a-a7de082433cd.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 3527,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:43:41.903251",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.2973609500000003,
+        "total_duration_ms": 487707,
+        "total_api_duration_ms": 137342,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:43:41.905484",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.2973609500000003,
+        "total_duration_ms": 487707,
+        "total_api_duration_ms": 137342,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:43:53.925511",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.3209121500000003,
+        "total_duration_ms": 499931,
+        "total_api_duration_ms": 141218,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:43:53.927784",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.3209121500000003,
+        "total_duration_ms": 499931,
+        "total_api_duration_ms": 141218,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:44:02.929187",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.3462855500000004,
+        "total_duration_ms": 508704,
+        "total_api_duration_ms": 144024,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:44:02.931709",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.3462855500000004,
+        "total_duration_ms": 508704,
+        "total_api_duration_ms": 144024,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:44:12.658442",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.3729368000000004,
+        "total_duration_ms": 518661,
+        "total_api_duration_ms": 147364,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:44:12.661117",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.3729368000000004,
+        "total_duration_ms": 518661,
+        "total_api_duration_ms": 147364,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:44:19.716437",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.4010211500000005,
+        "total_duration_ms": 525520,
+        "total_api_duration_ms": 153765,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:44:19.719191",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.4010211500000005,
+        "total_duration_ms": 525520,
+        "total_api_duration_ms": 153765,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:45:39.722833",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.4010211500000005,
+        "total_duration_ms": 605347,
+        "total_api_duration_ms": 153765,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:45:39.725766",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.4010211500000005,
+        "total_duration_ms": 605347,
+        "total_api_duration_ms": 153765,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:45:42.514017",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.4740993500000006,
+        "total_duration_ms": 608238,
+        "total_api_duration_ms": 235092,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:45:42.517404",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.4740993500000006,
+        "total_duration_ms": 608238,
+        "total_api_duration_ms": 235092,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:46:42.346414",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5084585000000006,
+        "total_duration_ms": 668349,
+        "total_api_duration_ms": 237619,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:46:42.349495",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5084585000000006,
+        "total_duration_ms": 668349,
+        "total_api_duration_ms": 237619,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:46:42.643758",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5084585000000006,
+        "total_duration_ms": 668650,
+        "total_api_duration_ms": 237619,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:46:42.646779",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5084585000000006,
+        "total_duration_ms": 668650,
+        "total_api_duration_ms": 237619,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:46:53.005697",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5328660500000004,
+        "total_duration_ms": 678641,
+        "total_api_duration_ms": 245334,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:46:53.009332",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5328660500000004,
+        "total_duration_ms": 678641,
+        "total_api_duration_ms": 245334,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:47:13.508946",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5330460500000005,
+        "total_duration_ms": 699419,
+        "total_api_duration_ms": 247556,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:47:13.512191",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5330460500000005,
+        "total_duration_ms": 699419,
+        "total_api_duration_ms": 247556,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:47:15.290853",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5596848500000005,
+        "total_duration_ms": 701070,
+        "total_api_duration_ms": 252583,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:47:15.294544",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5596848500000005,
+        "total_duration_ms": 701070,
+        "total_api_duration_ms": 252583,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:47:19.845737",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5845191500000004,
+        "total_duration_ms": 705620,
+        "total_api_duration_ms": 256897,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:47:19.849603",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5845191500000004,
+        "total_duration_ms": 705620,
+        "total_api_duration_ms": 256897,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:49:45.492914",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5845191500000004,
+        "total_duration_ms": 851493,
+        "total_api_duration_ms": 256897,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:49:45.496921",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5845191500000004,
+        "total_duration_ms": 851493,
+        "total_api_duration_ms": 256897,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:49:46.175563",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5845191500000004,
+        "total_duration_ms": 851794,
+        "total_api_duration_ms": 256897,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:49:46.179895",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5845191500000004,
+        "total_duration_ms": 851794,
+        "total_api_duration_ms": 256897,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:49:49.988682",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5845191500000004,
+        "total_duration_ms": 855993,
+        "total_api_duration_ms": 256897,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:49:49.992817",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5845191500000004,
+        "total_duration_ms": 855993,
+        "total_api_duration_ms": 256897,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:49:50.302236",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5845191500000004,
+        "total_duration_ms": 856293,
+        "total_api_duration_ms": 256897,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:49:50.306773",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5845191500000004,
+        "total_duration_ms": 856293,
+        "total_api_duration_ms": 256897,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:50:01.711446",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.6092783500000003,
+        "total_duration_ms": 867520,
+        "total_api_duration_ms": 262826,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:50:01.716324",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.6092783500000003,
+        "total_duration_ms": 867520,
+        "total_api_duration_ms": 262826,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:50:09.038700",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.6377426500000003,
+        "total_duration_ms": 874517,
+        "total_api_duration_ms": 269574,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:50:09.043232",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.6377426500000003,
+        "total_duration_ms": 874517,
+        "total_api_duration_ms": 269574,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:50:44.416807",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.6637804000000003,
+        "total_duration_ms": 910082,
+        "total_api_duration_ms": 275728,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:50:44.421476",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.6637804000000003,
+        "total_duration_ms": 910082,
+        "total_api_duration_ms": 275728,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:50:49.547793",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.6898079500000003,
+        "total_duration_ms": 915427,
+        "total_api_duration_ms": 279062,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:50:49.552580",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.6898079500000003,
+        "total_duration_ms": 915427,
+        "total_api_duration_ms": 279062,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:00.993750",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.7176031000000003,
+        "total_duration_ms": 926983,
+        "total_api_duration_ms": 287266,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:00.999208",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.7176031000000003,
+        "total_duration_ms": 926983,
+        "total_api_duration_ms": 287266,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:07.081640",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.7455274000000003,
+        "total_duration_ms": 932909,
+        "total_api_duration_ms": 292866,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:07.086686",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.7455274000000003,
+        "total_duration_ms": 932909,
+        "total_api_duration_ms": 292866,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:10.672427",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.7710512500000002,
+        "total_duration_ms": 936581,
+        "total_api_duration_ms": 296214,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:10.678169",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.7710512500000002,
+        "total_duration_ms": 936600,
+        "total_api_duration_ms": 296214,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:15.530652",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.7710512500000002,
+        "total_duration_ms": 941300,
+        "total_api_duration_ms": 296214,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:15.535942",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.7710512500000002,
+        "total_duration_ms": 941300,
+        "total_api_duration_ms": 296214,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:16.876024",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.79755115,
+        "total_duration_ms": 942150,
+        "total_api_duration_ms": 301384,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:16.881541",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.79755115,
+        "total_duration_ms": 942150,
+        "total_api_duration_ms": 301384,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:27.055351",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.8232835,
+        "total_duration_ms": 953020,
+        "total_api_duration_ms": 305483,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:27.061893",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.8232835,
+        "total_duration_ms": 953020,
+        "total_api_duration_ms": 305483,
+        "total_lines_added": 17,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:38.894687",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.85692265,
+        "total_duration_ms": 964730,
+        "total_api_duration_ms": 313579,
+        "total_lines_added": 36,
+        "total_lines_removed": 1
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:38.901174",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.85692265,
+        "total_duration_ms": 964730,
+        "total_api_duration_ms": 313579,
+        "total_lines_added": 36,
+        "total_lines_removed": 1
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:43.727395",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.88598935,
+        "total_duration_ms": 969306,
+        "total_api_duration_ms": 317706,
+        "total_lines_added": 36,
+        "total_lines_removed": 1
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:43.733848",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.88598935,
+        "total_duration_ms": 969306,
+        "total_api_duration_ms": 317706,
+        "total_lines_added": 36,
+        "total_lines_removed": 1
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:54.327015",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.91548235,
+        "total_duration_ms": 979827,
+        "total_api_duration_ms": 327992,
+        "total_lines_added": 36,
+        "total_lines_removed": 1
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:51:54.333167",
+    "version": "v3",
+    "input_data": {
+      "session_id": "8785e595-bf42-4081-991b-d36011d67a46",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\8785e595-bf42-4081-991b-d36011d67a46.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.91548235,
+        "total_duration_ms": 979827,
+        "total_api_duration_ms": 327992,
+        "total_lines_added": 36,
+        "total_lines_removed": 1
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:52:12.847331",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 2605,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Transcript file C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl does not exist"
+  },
+  {
+    "timestamp": "2025-09-15T11:52:12.853521",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 2605,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:52:22.361714",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0003488000000000001,
+        "total_duration_ms": 12322,
+        "total_api_duration_ms": 1297,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[34m[Sonnet 4]\u001b[0m | \u001b[90m- No prompts yet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:52:25.153606",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0003488000000000001,
+        "total_duration_ms": 14816,
+        "total_api_duration_ms": 1297,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[34m[Sonnet 4]\u001b[0m | \u001b[90m- No prompts yet\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:52:25.617364",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0003488000000000001,
+        "total_duration_ms": 15496,
+        "total_api_duration_ms": 1297,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[34m[Sonnet 4]\u001b[0m | + \u001b[97mCURRENT: yes. and add the instructions to the claude.md file\u001b[0m | \u001b[90mprev: Add the following to this this file: ...\u001b[0m | \u001b[90molder: you do with the pd-linkedIn...\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:52:41.513796",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.10832025,
+        "total_duration_ms": 31342,
+        "total_api_duration_ms": 8506,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:52:41.520595",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.10832025,
+        "total_duration_ms": 31342,
+        "total_api_duration_ms": 8506,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:52:47.708950",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1366848,
+        "total_duration_ms": 37375,
+        "total_api_duration_ms": 12845,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:52:47.723989",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1366848,
+        "total_duration_ms": 37375,
+        "total_api_duration_ms": 12845,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:52:51.536191",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1624704,
+        "total_duration_ms": 41193,
+        "total_api_duration_ms": 16434,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:52:51.545117",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1624704,
+        "total_duration_ms": 41193,
+        "total_api_duration_ms": 16434,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:19.809182",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1624704,
+        "total_duration_ms": 69651,
+        "total_api_duration_ms": 16434,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:19.815665",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1624704,
+        "total_duration_ms": 69651,
+        "total_api_duration_ms": 16434,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:20.033063",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1624704,
+        "total_duration_ms": 69953,
+        "total_api_duration_ms": 16434,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:20.039587",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1624704,
+        "total_duration_ms": 69953,
+        "total_api_duration_ms": 16434,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:28.310112",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.16266799999999998,
+        "total_duration_ms": 78229,
+        "total_api_duration_ms": 20149,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:28.318300",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.16266799999999998,
+        "total_duration_ms": 78229,
+        "total_api_duration_ms": 20149,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:29.961046",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.19081114999999998,
+        "total_duration_ms": 79799,
+        "total_api_duration_ms": 24964,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:29.968426",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.19081114999999998,
+        "total_duration_ms": 79799,
+        "total_api_duration_ms": 24964,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:34.737683",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.21948844999999997,
+        "total_duration_ms": 84463,
+        "total_api_duration_ms": 29445,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:34.745388",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.21948844999999997,
+        "total_duration_ms": 84463,
+        "total_api_duration_ms": 29445,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:38.752557",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.21948844999999997,
+        "total_duration_ms": 88642,
+        "total_api_duration_ms": 29445,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:38.760297",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.21948844999999997,
+        "total_duration_ms": 88642,
+        "total_api_duration_ms": 29445,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:40.231172",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.24700009999999997,
+        "total_duration_ms": 90067,
+        "total_api_duration_ms": 34854,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:40.239000",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.24700009999999997,
+        "total_duration_ms": 90067,
+        "total_api_duration_ms": 34854,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:42.805990",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 92635,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:42.813705",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 92635,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:47.543777",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 97454,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:47.552666",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 97454,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:48.117275",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 97769,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:53:48.125824",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 97769,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:54:02.041509",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 110383,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:54:02.049972",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 110383,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:54:02.160201",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 112095,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:54:02.168652",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 112095,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:54:05.464379",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 115400,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:54:05.474415",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 115400,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:54:05.711185",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 115700,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:54:05.719602",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 115700,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:54:38.865339",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 147145,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:54:38.874048",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 147145,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:54:39.054658",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 148933,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:54:39.063234",
+    "version": "v3",
+    "input_data": {
+      "session_id": "b570bde1-b488-4d5a-b403-ee724387ec13",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\b570bde1-b488-4d5a-b403-ee724387ec13.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27244805,
+        "total_duration_ms": 148933,
+        "total_api_duration_ms": 37223,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:55:07.214065",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 3198,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Transcript file C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl does not exist"
+  },
+  {
+    "timestamp": "2025-09-15T11:55:07.222784",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 3198,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:56:13.398862",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 69499,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Transcript file C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl does not exist"
+  },
+  {
+    "timestamp": "2025-09-15T11:56:13.407581",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0,
+        "total_duration_ms": 69499,
+        "total_api_duration_ms": 0,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:56:18.357040",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0001856,
+        "total_duration_ms": 74428,
+        "total_api_duration_ms": 924,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:56:18.365938",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0001856,
+        "total_duration_ms": 74428,
+        "total_api_duration_ms": 924,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:56:20.334639",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0379865,
+        "total_duration_ms": 76386,
+        "total_api_duration_ms": 6030,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:56:20.343905",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0379865,
+        "total_duration_ms": 76386,
+        "total_api_duration_ms": 6030,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:56:24.912803",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.05991185,
+        "total_duration_ms": 80915,
+        "total_api_duration_ms": 9410,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:56:24.922233",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.05991185,
+        "total_duration_ms": 80915,
+        "total_api_duration_ms": 9410,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:56:27.979910",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0804443,
+        "total_duration_ms": 84032,
+        "total_api_duration_ms": 12285,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:56:27.991557",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0804443,
+        "total_duration_ms": 84032,
+        "total_api_duration_ms": 12285,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:56:38.594099",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.10137655,
+        "total_duration_ms": 94648,
+        "total_api_duration_ms": 17590,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:56:38.603004",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.10137655,
+        "total_duration_ms": 94648,
+        "total_api_duration_ms": 17590,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:56:49.210012",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.123581,
+        "total_duration_ms": 105248,
+        "total_api_duration_ms": 25083,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:56:49.219778",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.123581,
+        "total_duration_ms": 105248,
+        "total_api_duration_ms": 25083,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-15T11:56:52.875158",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1443467,
+        "total_duration_ms": 108907,
+        "total_api_duration_ms": 28512,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "[Sonnet 4] - No session data",
+    "error": "Error reading transcript file: 'str' object has no attribute 'get'"
+  },
+  {
+    "timestamp": "2025-09-15T11:56:52.884963",
+    "version": "v3",
+    "input_data": {
+      "session_id": "58544aa7-664f-4b22-a658-6d4c2a3e65f0",
+      "transcript_path": "C:\\Users\\RDuff\\.claude\\projects\\C--Users-RDuff-Personal-Branding\\58544aa7-664f-4b22-a658-6d4c2a3e65f0.jsonl",
+      "cwd": "C:\\Users\\RDuff\\Personal Branding",
+      "model": {
+        "id": "claude-sonnet-4-20250514",
+        "display_name": "Sonnet 4"
+      },
+      "workspace": {
+        "current_dir": "C:\\Users\\RDuff\\Personal Branding",
+        "project_dir": "C:\\Users\\RDuff\\Personal Branding"
+      },
+      "version": "1.0.113",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1443467,
+        "total_duration_ms": 108907,
+        "total_api_duration_ms": 28512,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4]\u001b[0m \u001b[90m- No session data\u001b[0m"
+  }
+]
